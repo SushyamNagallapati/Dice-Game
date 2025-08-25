@@ -11,7 +11,7 @@ A simple and fun dice game built using **HTML**, **CSS**, and **JavaScript**. Ev
 
 ## 🖼️ Preview
 
-![Dice Game Screenshot](./DiceGame_screenshot) <!-- replace this with an actual screenshot if hosted -->
+![Dice Game Screenshot](./DiceGame_screenshot.png) <!-- replace this with an actual screenshot if hosted -->
 
 ## 📂 Technologies Used
 
