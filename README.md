@@ -9,10 +9,6 @@ A simple and fun dice game built using **HTML**, **CSS**, and **JavaScript**. Ev
 - Minimal and responsive UI
 - Great beginner project for learning DOM manipulation and randomness in JavaScript
 
-## 🖼️ Preview
-
-![Dice Game Screenshot](./DiceGame_screenshot.png) <!-- replace this with an actual screenshot if hosted -->
-
 ## 📂 Technologies Used
 
 - HTML5
